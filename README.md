@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Kumud Pratap Singh :
 🔭 I’m currently working on: Enhancing my GitHub profile, developing data analysis projects with Python, SQL, Tableau and exploring automation tools.<br>🌱 I’m currently learning: Machine learning, cloud services (like AWS), and improving my skills in deploying scalable applications.<br>👯 I’m looking to collaborate on: Open-source projects related to data science, automation, and machine learning.<br>🤔 I’m looking for help with: <br>💬 Ask me about: Data analysis with Python, automation workflows, and using Jupyter notebooks for data manipulation.<br>📫 How to reach me: [www.linkedin.com/in/kumud-ps].<br>😄 Pronouns: [He/Him].<br>⚡ Fun fact: I love tinkering with side projects that automate everyday tasks and finding new ways to make data analysis more efficient!
 
 
